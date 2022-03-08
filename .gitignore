@@ -1,4 +1,6 @@
-# This file keep a record of how many test cases each of my solution passes(guess this is kind of helpful)
+# This file keep a record of:
+# how many test cases each of my solution passes
+# (guess this is kind of helpful)
 # problem_mapping.js
 
 # JetBrains IDEs (CLion, IntelliJ, and PyCharm)
@@ -30,4 +32,5 @@ epi_judge_java/java_build/
 
 # OS X specific files
 .DS_Store
-problem_mapping.js
+
+# others ...
