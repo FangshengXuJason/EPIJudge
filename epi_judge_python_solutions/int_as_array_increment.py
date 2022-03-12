@@ -18,6 +18,9 @@ def plus_one(A: List[int]) -> List[int]:
             # and update the first entry to 1.
             A[0] = 1
             A.append(0)
+            # fangsheng: this is another way, but it takes additional O(n) runntime to insert!
+            # A[0] = 0
+            # A.insert(0,1)
     return A
 
 
