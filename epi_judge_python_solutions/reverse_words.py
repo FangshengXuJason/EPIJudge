@@ -30,6 +30,8 @@ def reverse_words(s):
 
 
 # Pythonic solution, doesn't reverse in-place, may be used with strings
+# Jason: 'list' object has no attribute 'split'
+# Jason: it work when s is a string
 def reverse_words_pythonic(s):
     return ' '.join(reversed(s.split(' ')))
 
