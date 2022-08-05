@@ -3,6 +3,9 @@
 # (guess this is kind of helpful)
 # problem_mapping.js
 
+# vs code
+.vscode
+
 # JetBrains IDEs (CLion, IntelliJ, and PyCharm)
 .idea
 
